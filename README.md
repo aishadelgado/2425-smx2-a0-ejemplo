@@ -29,3 +29,4 @@ Este texto está en *cursiva* y este también está en _cursiva_
 
 [Enlace a la web del cole](https://www.fje.edu/ca/fje "Texto opcional")
 
+![Caballo](https://github.com/aishadelgado/2425-smx2-a0-ejemplo/blob/main/caballo.jpg "Titulo opcional de la imagen")

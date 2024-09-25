@@ -30,3 +30,10 @@ Este texto está en *cursiva* y este también está en _cursiva_
 [Enlace a la web del cole](https://www.fje.edu/ca/fje "Texto opcional")
 
 ![Caballo](https://github.com/aishadelgado/2425-smx2-a0-ejemplo/blob/main/caballo.jpg "Titulo opcional de la imagen")
+
+|Columna 1 |Columna 2 |Columna 3 |
+|--------------|:----------:|----------:|
+|Col 3 es |right-aligned|$1600|
+|Col 2 es |centered|$12|
+|zebra stripes |son limpias|$1|
+
